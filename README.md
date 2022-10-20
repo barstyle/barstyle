@@ -9,6 +9,5 @@ ___
 
 ## 🤝 Connect with me
 + 💣 [Telegram](https://t.me/barsty)
-+ 💬 [Twitter](https://twitter.com/barsty)
 ___
 ![Codewars Profile Badges](https://www.codewars.com/users/barstyle/badges/large)
